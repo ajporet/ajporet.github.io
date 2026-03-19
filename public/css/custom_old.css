@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.sidebar-about h1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.sidebar {
+  font-family: 'Roboto', sans-serif;
+  overflow: visible !important;
+}
+
+.sidebar-sticky {
+  position: relative !important;
+  top: auto !important;
+  bottom: auto !important;
+  left: auto !important;
+  right: auto !important;
+  overflow: visible !important;
+}
+
+.sidebar-photo img {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+/* Base font size - controls everything */
+html {
+  font-size: 14px;
+}
+
+/* Sidebar title */
+.sidebar-about h1 {
+  font-size: 1.2rem;
+}
+
+/* Sidebar description */
+.sidebar .lead {
+  font-size: 0.85rem;
+}
+
+/* Sidebar nav links */
+.sidebar-nav-item {
+  font-size: 0.85rem;
+}
+
+/* Sidebar copyright */
+.sidebar p {
+  font-size: 0.75rem;
+}
+
+/* Main content headings */
+h1 { font-size: 1.5rem; }
+h2 { font-size: 1.3rem; }
+h3 { font-size: 1.1rem; }
+
+/* Main content body text */
+.content p {
+  font-size: 0.9rem;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.content-block {
+  padding: 2rem 0;
+}
+
+.content-block h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.content-block h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin: 1.5rem 0 0.75rem;
+}
+
+.content-block p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #444;
+  margin-bottom: 1rem;
+}
+
+.content-block ul {
+  padding-left: 1.25rem;
+  line-height: 1.8;
+  color: #444;
+}
