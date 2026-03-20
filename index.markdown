@@ -10,7 +10,7 @@ title: Home
 
 I am a fourth-year PhD student in Harvard’s Biophysics Graduate Program, working with Dr. Michael Desai in the Departments of Organismic and Evolutionary Biology and Physics. My research focuses on understanding the dynamics of the adaptive immune system through quantitative and evolutionary approaches.
 
-Previously, I worked with Dr. Tami Lieberman at the MIT Institute for Medical Engineering and Science (2019–2022), where I studied microbial evolution in cystic fibrosis infections and the skin microbiome. At MIT, I also received my undergraduate degree in Biological Engineering (Course 20), with a minor in Science, Technology, and Society, in 2022. After graduating, I briefly spent six months as a computational biology co-op at Day Zero Diagnostics (now part of bioMérieux), where I developed benchmarking approaches for a novel Oxford Nanopore–based sepsis diagnostic.
+Previously, I worked with Dr. Tami Lieberman at the MIT Institute for Medical Engineering and Science (2019–2022), where I studied microbial evolution in cystic fibrosis infections and the skin microbiome. At MIT, I also received my undergraduate degree in Biological Engineering (Course 20), with a minor in Science, Technology, and Society studies, in 2022. After graduating, I briefly spent six months as a computational biology co-op at Day Zero Diagnostics (now part of bioMérieux), where I developed benchmarking approaches for a novel Oxford Nanopore–based sepsis diagnostic.
 
 Outside the lab, I am an avid runner and figure skater. You can read an article by US Figure Skating  about my involvement with MIT and Harvard’s figure skating clubs <a href="https://usfigureskating.org/news/2025/12/19/features-poret-pursuing-passion-and-purpose.aspx">here</a>.
 
