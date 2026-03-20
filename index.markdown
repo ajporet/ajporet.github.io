@@ -46,3 +46,21 @@ Anatomy promotes neutral coexistence of strains in the human skin microbiome.
 *Cell Host and Microbe*. [10.1016/j.chom.2021.12.007](https://doi.org/10.1016/j.chom.2021.12.007)
 
 \* co-first authors
+
+---
+
+# Teaching and Service
+
+* Microbial Chemistry, Ecology and Evolution (OEB 290), Harvard College, Spring 2025
+
+* Integrated Science (LS50), Harvard College, Fall 2023
+
+* Analysis of Biomolecular and Cellular Systems (20.320), MIT, Fall 2021
+
+* Mather House Fellowship and Graudate Studies Advisor (Non-Resident Tutor), Harvard College, 2024—Present
+
+* Taco Bell Live Mas Scholarship Alumni Council, 2024—2025
+
+* Co-head of the Harvard Biophysics Outreach committee, 2023—2024
+
+
