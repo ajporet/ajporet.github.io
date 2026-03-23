@@ -39,6 +39,12 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-LT75DJZXRK"
+    anonymize_ip: false # default  
+
 
 
 # Exclude from processing.
